@@ -1,0 +1,50 @@
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+.navletra {
+    font-weight: 200;
+    padding-left: 50%;
+    text-decoration:underline;
+}
+.colortexto{
+    color: rgb(4, 24, 112) !important ;
+}
+
+.navletra:hover{
+    font-weight:500;
+    transition-duration: 0.5s;
+
+}
+
+.imgnav { 
+    height: 8%;
+    width: 8%;
+    margin-left: 10%;
+}
+.portada {
+    background-color: rgb(3, 16, 73);
+}
+
+.box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+    height:10% ;
+    width:40% ;
+    text-align: center;
+    text-shadow: 10px;
+    margin-left: 30%;
+    padding: 5%;
+    font-size:larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.info-center{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
+.colora{
+    color: rgb(27, 38, 138);
+}
