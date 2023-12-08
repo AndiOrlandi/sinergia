@@ -8,9 +8,12 @@
     text-decoration:underline;
 }
 .colortexto{
-    color: rgb(4, 24, 112) !important ;
+    color: #041847 !important ;
 }
 
+.carrusel{
+    background-color: #e5e7ec;
+}
 .navletra:hover{
     font-weight:500;
     transition-duration: 0.5s;
@@ -23,13 +26,12 @@
     margin-left: 10%;
 }
 .portada {
-    background-color: rgb(3, 16, 73);
+    background-color: #041847
 }
 
 .box {
-    background-color: rgb(255, 255, 255);
-    border-radius: 10%;
-    height:10% ;
+    background-color: #e5e7ec;
+    height:40% ;
     width:40% ;
     text-align: center;
     text-shadow: 10px;
@@ -46,5 +48,5 @@
 }
 
 .colora{
-    color: rgb(27, 38, 138);
+    color: #041847
 }
